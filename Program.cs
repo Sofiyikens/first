@@ -66,6 +66,9 @@ public static class Program
                 case 6:
                     Console.WriteLine("\nBonus. My congratulations! :)");
                     break;
+                case 7:
+                    Console.WriteLine("\nOhhhh nooooo. It's not i wanted! :)");
+                    break;
                 default:
                     Console.WriteLine("\nInvalid choice. Please, try again!");
                     break;
